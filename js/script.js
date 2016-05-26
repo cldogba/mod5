@@ -3,7 +3,7 @@
  * Section: Coursera @ Johns Hopkins University
  * Name: Fedorov Igor
  * Date: April 6, 2016
- * Assignment: Module 4 Coding Assignment
+ * Assignment: Module 5 Coding Assignment
  */
  
 $(function () { // Same as document.addEventListener("DOMContentLoaded"...
